@@ -1,6 +1,6 @@
 # #T3Uni14
 ## <span class="orange">Optimiser votre temps de travail</span>
-<span class="small">http://inouit.github.io/t3uni14-presentation/</span>
+<span class="small">http://inouit.github.io/t3uni14-presentation-fr/</span>
 
 <div style="position: relative">
     <table class="intervenants reveal">

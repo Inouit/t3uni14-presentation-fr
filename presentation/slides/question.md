@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <th>T3Uni14 présentation :</th>
-    <td>http://inouit.github.io/t3uni14-presentation/</td>
+    <td>http://inouit.github.io/t3uni14-presentation-fr/</td>
   </tr>
 </table>
 
