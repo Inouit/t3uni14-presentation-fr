@@ -1,10 +1,6 @@
 # #T3Uni14
 ## <span class="orange">Optimiser votre temps de travail</span>
-<<<<<<< HEAD
 <span class="small">http://inouit.github.io/t3uni14-presentation-fr/</span>
-=======
-<span class="small">http://inouit.github.io/t3uni14-presentation/</span>
->>>>>>> 7ab05a58ffc82feb5afea99eea900fc39382663c
 
 <div style="position: relative">
     <table class="intervenants reveal">
@@ -42,8 +38,3 @@ J'ai un aveu à vous faire, je suis paresseux. Un vrai. J'ai en  horreur les tâ
 Clément et moi, peut-être d'autres développeurs ici, nous y passons 2 minutes... 2 minutes. Nos projets sont sans doute aussi diversifiés que les autres, mais notre but, c'est que quelques soient vos besoins, toutes ces tâches soient terminées, sans intervention de votre part, avant que vous ayez fini votre mug de café.<br />
 Nous allons d'abord vous expliquer comment gagner énormément de temps à l'installation, puis dans un second temps, comment organiser votre travail pour sortir beaucoup plus vite des startings blocks. Si nous avons le temps, j'espère pouvoir vous montrer comment un générateur Yeoman peut vous changer la vie. <br />
 Quoiqu'il en soit, n'hésitez pas à poser  vos question sur twitter #t3uni14, puisque nous y consacrerons dix minutes en fint de présentation. C'est ok pour tout le monde ? on y va ?
-<<<<<<< HEAD
-**DROITE**
-=======
-**DROITE**
->>>>>>> 7ab05a58ffc82feb5afea99eea900fc39382663c

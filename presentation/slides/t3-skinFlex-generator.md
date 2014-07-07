@@ -6,10 +6,5 @@
 </div>
 
 note:
-<<<<<<< HEAD
-Petite histoire à propos de Bonduelle.<br />**BAS**
-La réflexion sur l'optimisation du travail est un investissement à moyen terme hautement rentable. Ce qu'on vous a montré aujourd'hui, c'est un processus flexible, adaptable, alors prenez le comme base, cassez-le, personnalisez-le. L'important c'est qu'il vous ressemble, qu'il ressemble aux besoins de votre équipe. C'est le seul moyen pour que ce soit adopté sans douleur.<br />**DROITE**
-=======
 Petite histoire à propos de Bonduelle.<br />**BAS*
 La réflexion sur l'optimisation du travail est un investissement à moyen terme hautement rentable. Ce qu'on vous a montré aujourd'hui, c'est un processus flexible, adaptable, alors prenez le comme base, cassez-le, personnalisez-le. L'important c'est qu'il vous ressemble, qu'il ressemble aux besoins de votre équipe. C'est le seul moyen pour que ce soit adopté sans douleur.<br />**DROITE**
->>>>>>> 7ab05a58ffc82feb5afea99eea900fc39382663c

@@ -26,11 +26,7 @@
   </tr>
   <tr>
     <th>T3Uni14 présentation :</th>
-<<<<<<< HEAD
     <td>http://inouit.github.io/t3uni14-presentation-fr/</td>
-=======
-    <td>http://inouit.github.io/t3uni14-presentation/</td>
->>>>>>> 7ab05a58ffc82feb5afea99eea900fc39382663c
   </tr>
 </table>
 
