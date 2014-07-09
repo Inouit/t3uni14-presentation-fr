@@ -14,8 +14,7 @@
 			<td><ul class="fragment fade-in">
 				<li>3 à 5 étapes simples</li>
 				<li>Installation d'un package</li>
-	</ul></td>
-			<td>
+			</ul></td>
 			<td><ul class="fragment fade-in">
 				<li>2 questions (nom d'utilisateur, nom de projet)</li>
 				<li>Configuration des extensions systèmatiques</li>
