@@ -48,4 +48,4 @@
 </table>
 
 note:
-Nous avons encore quelques minutes si vous avez des questions. Si vous n'êtes pas sur place, vous pouvez les poser sur le #t3uni14 ou directement à l'un ou l'autre de nos comptes twitter. Quoiqu'il en soit, si vous voulez approfondir certains sujets, n'hésitez surtout pas... Clément boit de la bière, moi des Mojitos. À vous de jouer.
+  Les sources de tout ce que vous venez de voir sont en accès libre sur Github ou le TER. Libre à vous de vous en inspirer ou nous faire des retours sur des éléments que nous pourrions encore améliorer. Si vous souhaitez débatre de nos choix de technologies ou que vous avez simplement des questions, n'oubliez pas que c'est toujours plus agréable autour d'un verre, Clément aime la bière, moi, les Mojitos. À vous de jouer...

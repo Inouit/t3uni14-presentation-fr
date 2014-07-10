@@ -15,5 +15,5 @@
 </table>
 
 note:
-Puisqu'on parle de gabarit de page, j'aimerais m'attarder quelques secondes sur l'automatisation des tâches tout au long du projet. Sans entrer dans le débat du pour ou contre les pré-processeurs (tels que SASS, LESS ou autre), l'utilisation de post-processeurs est devenue, à nos yeux, indispensable. Imaginez un monde où vous n'avez plus à compiler vos pré-processeurs JS ou CSS, un monde qui préfixe automatiquement les fonctions dépréciés, qui vous avertit des erreurs, compile, teste, génère une documentation, rafraîchit votre navigateur. Je vois quelques yeux qui brillent là. Combien d'entre vous font encore au moins une de ces tâches à la main alors qu'elle pourrait être automtisée avec un post-processeur ?<br />
-Notre environement de travail est prêt, nous pouvons y ajouter notre valeur, celle-ci passe par des contenus.<br>
+  L'intégration HTML/CSS/JS peut également faire l'objet d'une optimisation avancée. Pour ce faire, nous utilisons le gestionnaire de tâches grunt qui permet d'automatiser de fonctions. Il peut par exemple lancer vos pré/post-processeurs (auto-préfixeur, compileur SASS/Coffee), inspecteur de code, etc. L'idée est qu'il écoute vos fichiers, excécute les actions concernées au moment d'une sauvegarde et lance une demande de rafraîchissement de page à votre navigateur. Vous pouvez également imaginer le rafraîchissement et la synchronisation de plusieurs supports à l'édition de fichiers.<br />
+  L'environnement de travail est prêt. Il est maintenant temps de passer aux contenus et à la création de leur contexte.
