@@ -17,6 +17,7 @@
 					<li>Installation d'un package</li>
 				</ul>
 			</td>
+			<td></td>
 			<td>
 				<ul class="fragment fade-in">
 					<li>2 questions (nom d'utilisateur, nom de projet)</li>
